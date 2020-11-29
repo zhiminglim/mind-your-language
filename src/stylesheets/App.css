@@ -1,0 +1,30 @@
+@font-face {
+    font-family: UbuntuRegular;
+    src: url("../assets/fonts/ubuntu-regular-webfont.woff2") format("woff2"),
+         url("../assets/fonts/ubuntu-regular-webfont.woff") format("woff"),
+         url("../assets/fonts/Ubuntu-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* COLOUR SCHEME */
+/*  https://colorhunt.co/palette/22272 */
+/* #f9f7f7
+  #dbe2ef
+  #3f72af
+  #112d4e */
+
+
+body {
+  font-family: UbuntuRegular;
+  color: white;
+  font-weight: 300;
+  background: #f9f7f7;
+  width: 100%;
+  height: 100%;
+  
+}
+
+.App {
+  font-family: , serif;
+}
